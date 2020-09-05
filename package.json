@@ -1,0 +1,17 @@
+{
+  "name": "official-tailwind-tuto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o docs/build/tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss-cli": "^7.1.2",
+    "tailwindcss": "^1.8.2"
+  }
+}
