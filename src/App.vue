@@ -1,5 +1,9 @@
 <template>
 <div id="app">
+    <div class="hidden p-3 bg-white">
+        <h5 class="font-bold text-center text-blue-400">My New Tailwind Project</h5>
+        <p class="italic font-bold text-center text-gray-500">(from tailwindcss.com/course)</p>
+    </div>
     <div class="flex bg-gray-100">
         <div class="max-w-md px-8 py-4 mx-auto sm:py-12 sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
             <div class="xl:max-w-lg xl:ml-auto">
