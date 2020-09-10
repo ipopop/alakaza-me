@@ -8,7 +8,9 @@
             <span>average</span>
         </p>
         <div class="mt-4">
-            <a href="#" class="text-sm font-semibold text-indigo-500 hover:text-indigo-400">Explore {{ destination.propertyCount }} properties</a>
+            <a href="#" class="text-sm font-semibold text-indigo-500 hover:text-indigo-400">Explore {{ destination.propertyCount }}
+                <br class="inline" />
+                <span>properties</span></a>
         </div>
     </div>
 </div>
