@@ -1,4 +1,4 @@
-# my-tailwind-project
+# alakaza.me
 
 from tuto :
 https://tailwindcss.com/course

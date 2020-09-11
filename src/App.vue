@@ -1,13 +1,13 @@
 <template>
 <div id="app">
     <section id="top" class="hidden p-3 bg-white">
-        <h5 class="font-bold text-center text-blue-400">My New Tailwind Project</h5>
+        <h5 class="font-bold text-center text-blue-400">ALAKAZA.ME Remote Working</h5>
         <p class="italic font-bold text-center text-gray-500">(from tailwindcss.com/course)</p>
     </section>
     <section id="header" class="flex bg-white">
         <div class="max-w-md px-8 py-4 mx-auto sm:py-12 sm:max-w-xl lg:max-w-full lg:w-1/2 lg:py-24 lg:px-12">
             <div class="xl:max-w-lg xl:ml-auto">
-                <img class="h-10" src="img/logo.svg" alt="Workcation" />
+                <img class="h-10" src="img/alakaza-me.svg" alt="logo alakaza.me" />
                 <img class="object-cover object-center w-full h-48 mt-6 rounded-lg shadow-xl sm:mt-8 sm:h-72 sm:object-cover lg:hidden" src="img/beach-work.jpg" alt="Woma Workcationing on the beach" />
                 <h2 class="mt-6 text-2xl font-bold leading-tight text-gray-900 sm:text-4xl sm:mt-8 lg:text-3xl">
                     You can work from anywhere.
