@@ -3,5 +3,8 @@
 from tuto :
 https://tailwindcss.com/course
 
+and templates from :
+https://github.com/mertJF/tailblocks
+
 site is published at :
-https://ipopop.github.io/my-tailwind-project/
+https://www.alakaza.me
