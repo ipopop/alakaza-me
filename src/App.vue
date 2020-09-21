@@ -553,7 +553,7 @@
     <footer id="footer" class="text-gray-700 body-font">
         <div class="container px-5 py-24 mx-auto">
             <div class="flex flex-wrap md:text-left text-center order-first">
-                <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+                <div class="lg:w-1/3 md:w-1/2 w-full px-4">
                     <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
                     <nav class="list-none mb-10">
                         <li>
@@ -570,7 +570,7 @@
                         </li>
                     </nav>
                 </div>
-                <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+                <div class="lg:w-1/3 md:w-1/2 w-full px-4">
                     <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
                     <nav class="list-none mb-10">
                         <li>
@@ -587,24 +587,7 @@
                         </li>
                     </nav>
                 </div>
-                <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-                    <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
-                    <nav class="list-none mb-10">
-                        <li>
-                            <a class="text-gray-600 hover:text-gray-800">First Link</a>
-                        </li>
-                        <li>
-                            <a class="text-gray-600 hover:text-gray-800">Second Link</a>
-                        </li>
-                        <li>
-                            <a class="text-gray-600 hover:text-gray-800">Third Link</a>
-                        </li>
-                        <li>
-                            <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
-                        </li>
-                    </nav>
-                </div>
-                <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+                <div class="lg:w-1/3 md:w-1/2 w-full px-4">
                     <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">SUBSCRIBE</h2>
                     <div class="flex xl:flex-no-wrap md:flex-no-wrap lg:flex-wrap flex-wrap justify-center md:justify-start">
                         <input class="w-40 sm:w-auto bg-gray-100 rounded xl:mr-4 lg:mr-0 sm:mr-4 mr-2 border border-gray-400 focus:outline-none focus:border-indigo-500 text-base py-2 px-4" placeholder="Placeholder" type="text">
